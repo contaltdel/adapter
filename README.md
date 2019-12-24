@@ -33,4 +33,4 @@ Tasarım Desenine Ait Class Diagramı
 ![alt text](adapter.PNG)
 
 
-[kaynak](https://www.codesenior.com/tutorial/Adaptor-Adapter-Tasarim-Deseni)
+[Tasarım Modeli Açıklama Kaynağı](https://www.codesenior.com/tutorial/Adaptor-Adapter-Tasarim-Deseni)
