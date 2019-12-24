@@ -25,6 +25,8 @@ Faydaları Nedir?
 3. Var olan modül(ler) değiştirilmeden sisteme yeni modüller eklenebilir.
 
 Tasarımda ne yaptım?
+
+
 Kuşa özel sesCikar() fonksiyonunu, Adabter Class'ın içinde yarasalara ait ciglikAt() fonksiyonu ile değiştirdim. Böylece yarasalara ait olmayan bir özelliği, adapter tasarımı ile kullanmış olduk.
 
 Tasarım Desenine Ait Class Diagramı
