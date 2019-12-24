@@ -1,4 +1,4 @@
-Nedir?
+Adapter Pattern Nedir?
 
 Adapter tasarım deseni, structural tasarım desenlerinden biridir. Bu tasarım deseni, birbiriyle ilişkili olmayan interface'lerin birlikte çalışmasını sağlar. Bu işlemi ise, bir sınıfın interface'ini diğer bir interface'e dönüştürerek yapar.
 
@@ -20,3 +20,5 @@ Faydaları Nedir?
 1. Birbiriyle ilişkili olmayan interface'lerin birlikte çalışmasını sağlar.
 2. Kodların yeniden yazılması engeller.
 3. Var olan modül(ler) değiştirilmeden sisteme yeni modüller eklenebilir.
+
+![alt text](adapter.PNG)
