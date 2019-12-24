@@ -31,3 +31,6 @@ Kuşa özel sesCikar() fonksiyonunu, Adabter Class'ın içinde yarasalara ait ci
 
 Tasarım Desenine Ait Class Diagramı
 ![alt text](adapter.PNG)
+
+
+[kaynak](https://www.codesenior.com/tutorial/Adaptor-Adapter-Tasarim-Deseni)
